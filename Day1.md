@@ -54,3 +54,22 @@ allow remote users to access a private network over the
 Internet securely
 * Access controls – Policies and procedures that restrict access 
 to networks and resources only to authorised user
+
+### Application Security
+Application security involves identifying, fixing, and safeguarding 
+vulnerabilities and weaknesses in software applications that attackers 
+could exploit. This is crucial as applications are increasingly used to 
+store and access sensitive data through the Internet.<br>
+Critical aspects of application security include:
+* Input validation – Ensuring all input to an application is valid 
+before processing to prevent attacks like code injection or 
+buffer overflow
+* Authentication and access controls – Requiring login 
+credentials and appropriate permissions to access 
+applications and data
+* Encryption – Encoding data at rest and in transit to protect 
+confidentiality and data integrity
+* Security testing – Systematically testing applications to 
+uncover security flaws before deployment
+* DevSecOps – Building security practices into every phase of 
+the software development lifecycle
