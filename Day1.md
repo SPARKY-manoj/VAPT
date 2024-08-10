@@ -73,3 +73,40 @@ confidentiality and data integrity
 uncover security flaws before deployment
 * DevSecOps – Building security practices into every phase of 
 the software development lifecycle
+---
+### Cloud Security
+Cloud security addresses vulnerabilities unique to the cloud 
+computing environment. As more data and applications migrate to the 
+cloud, protecting these hosted services requires new approaches 
+compared to traditional on-premise solutions.<br>
+Critical aspects of cloud security include:
+* Identity and access management – Providing appropriate 
+access controls and minimising overexposed credentials
+* Cloud encryption – Encrypting data while stored on cloud 
+servers and in transit
+* Visibility and analytics – Monitoring account activity and 
+assets across cloud services
+* Configuration audits – Checking for misconfigurations in 
+complex cloud environments that could introduce 
+vulnerabilities
+* Vendor lock-in avoidance – Being able to migrate 
+applications and data from one cloud provider to another
+---
+### Information Security
+Information security focuses on preserving confidentiality, integrity, 
+and digital data availability. This means ensuring that information is 
+protected from unauthorised access, preventing improper 
+modification, and ensuring accessibility for authorised users.<br>
+Critical aspects include:
+* Data loss prevention – Policies and technologies that stop 
+users from sending sensitive data outside a system
+* Data governance – The overall management of data assets 
+and security controls
+* Data classification – Categorising data by sensitivity levels 
+and applying appropriate protections
+* Disaster recovery and business continuity – Plans that allow 
+restoration and continuity of systems and data after a 
+security breach or disaster
+* End-user education – Training all employees on cybersecurity 
+best practices for handling company information
+---
