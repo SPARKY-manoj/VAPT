@@ -330,3 +330,57 @@ visible vulnerabilities adversaries could target
 * Attribution analysis – Technically profiling attack indicators to 
 determine the likely source
 ---
+### Cyber Regulation and Policy
+As cyber incidents grow more severe and frequent, governments enact 
+new regulations and policies to improve baseline security, requiring 
+breach notification and boosting cross-sector collaboration. You’ll 
+need to understand applicable laws and actively track new legislation.<br>
+Critical aspects include:
+* Data protection laws – Compliance with GDPR, CCPA and 
+other strict privacy rules
+* Infrastructure regulations – Adherence to NERC-CIP for 
+energy companies, NIST IR 8276 for federal contractors
+* Mandatory reporting – Notifying regulators about cyber 
+incidents per SEC, HHS or state rules
+* Government assistance – Taking advantage of cyber threat 
+intelligence sharing programs
+* Policy advocacy – Providing input to lawmakers crafting 
+bills related to technology laws
+---
+### Forensics and E-Discovery
+Closely related to incident response, cyber forensics involves deeply 
+analysing IT systems and data to establish facts regarding a security 
+event’s cause, scope, and impact. Practitioners preserve evidence, 
+document the chain of custody, and ultimately provide technical 
+explanations that stand up in court.<br>
+Critical aspects include:
+* System imaging – Safely collecting full-disk copies of affected 
+computers to analyse securely
+* Media analysis – Pulling forensic artefacts from logs, files, 
+endpoint RAM, or hard drives
+* Mobile device forensics – Cracking, imaging and scouring 
+locked, encrypted phones or tablets
+* Legal standards – Following evidentiary procedures 
+compliant with federal and state court rules
+* Expert testimony – Acting as a court-certified expert witness 
+regarding forensic processes and findings
+---
+### Security Testing and Auditing
+Rigorously testing systems and controls for weaknesses using 
+methods like vulnerability scanning, penetration testing, red teams, 
+and code review provides invaluable data on where organisations are 
+exposed. This allows precise targeting of cybersecurity program 
+investments.<br>
+Critical aspects include:
+* Vulnerability management – Systematically scanning 
+networks, endpoints, apps, and clouds for misconfigurations 
+and software flaws falling back on vendors for remediation 
+where possible
+* Penetration testing – Ethically hacking systems using realworld techniques to quantify how much damage skilled 
+intruders could inflict before being detected
+* Red team exercises – Simulating how advanced persistent 
+threats would infiltrate networks, move laterally to high-value 
+targets, and exfiltrate data over time
+* Code auditing – Reviewing application source code line-byline to uncover weaknesses left accidentally or intentionally 
+by developer
+---
