@@ -110,3 +110,77 @@ security breach or disaster
 * End-user education – Training all employees on cybersecurity 
 best practices for handling company information
 ---
+### Disaster Recovery
+Disaster recovery involves planning for urgent responses when 
+cyberattacks or system failures occur to restore services and data to a 
+working state. An incident response plan prepared beforehand allows 
+organisations to efficiently allocate resources, communicate internally, 
+coordinate across teams, and take the technical steps needed to 
+recover.<br>
+Critical aspects of disaster recovery include:
+* Impact assessment – Evaluating the extent of damage and 
+identifying affected assets after an event occurs
+* Data and hardware backup – Maintaining accessible backups 
+of critical data and infrastructure
+* Emergency communications – Contact trees, call lists, 
+automated notifications to inform relevant teams
+* Restoration procedures – Steps for safely restoring 
+compromised systems from backups
+* Response testing – Regularly testing disaster recovery plans 
+end-to-end to improve effectiveness
+---
+### Operational Technology (OT) Security
+OT security safeguards industrial control systems, SCADA devices, 
+Internet of Things (IoT) networks, and other connected equipment in 
+critical infrastructure sectors like energy, transportation, and 
+manufacturing. These devices and networks interact directly with 
+physical processes, which makes them vulnerable to cyberattacks with 
+kinetic world consequences.<br>
+Critical aspects of OT security include:
+* Network segmentation – Isolating and protecting OT systems 
+by keeping them separate from IT networks
+* Access control – Establishing layered protections restricting 
+access to only authorised users
+* Monitoring – Tracking all activity on OT networks to identify 
+threats
+* Patch management – Regularly installing patches and 
+updates to remediate vulnerabilities
+* Resilience and redundancy – Designing OT environments not 
+to fail dangerously if compromised in an attack
+---
+### Mobile Security
+Mobile security protects smartphones, tablets, and other mobile 
+devices from evolving cyber threats aimed at these ubiquitous targets. 
+Attack vectors like malicious apps, unsafe WiFi networks, or phishing 
+links can allow attackers to gain access, modify data, or track device 
+owners.<br>
+Critical aspects of mobile security include:
+* Application vetting – Testing new apps for malware or 
+unnecessary permissions before installation
+* Authentication methods – Using strong PINs, patterns, or 
+biometrics to prevent unauthorised access
+* Data encryption – Protecting sensitive mobile data if a device 
+is lost or stolen
+* Security updates – Regularly patching mobile operating 
+systems and apps
+* Secure connectivity – Using trusted WiFi networks and VPNs 
+to prevent eavesdropping
+---
+### Cryptography
+Cryptography is vital to many cybersecurity domains since it allows for 
+secure communication and safe data storage, even on insecure 
+networks like the Internet. This science focuses on developing and 
+deploying encryption and protecting keys and passwords.<br>
+Crtocoa; aspects include:
+* Encryption algorithms – Mathematical techniques to 
+transform plain text into indecipherable cipher text
+* Public critical infrastructure (PKI) – Framework enabling 
+secure digital communication and data integrity
+* Key management – Generating, distributing, storing, 
+revoking, and destroying the secret keys used in 
+cryptographic operations
+* Quantum-safe cryptography – Developing new algorithms 
+resistant to code-breaking from quantum computers
+* Steganography – Concealing messages inside images, video 
+clips, or other innocuous-looking data
+---
