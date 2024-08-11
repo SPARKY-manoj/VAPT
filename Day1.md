@@ -154,7 +154,7 @@ devices from evolving cyber threats aimed at these ubiquitous targets.
 Attack vectors like malicious apps, unsafe WiFi networks, or phishing 
 links can allow attackers to gain access, modify data, or track device 
 owners.<br>
-Critical aspects of mobile security include:
+Critical aspects of mobile security include:<br>
 * Application vetting – Testing new apps for malware or 
 unnecessary permissions before installation
 * Authentication methods – Using strong PINs, patterns, or 
@@ -171,7 +171,7 @@ Cryptography is vital to many cybersecurity domains since it allows for
 secure communication and safe data storage, even on insecure 
 networks like the Internet. This science focuses on developing and 
 deploying encryption and protecting keys and passwords.<br>
-Crtocoa; aspects include:
+Crtocoa; aspects include:<br>
 * Encryption algorithms – Mathematical techniques to 
 transform plain text into indecipherable cipher text
 * Public critical infrastructure (PKI) – Framework enabling 
@@ -183,4 +183,150 @@ cryptographic operations
 resistant to code-breaking from quantum computers
 * Steganography – Concealing messages inside images, video 
 clips, or other innocuous-looking data
+---
+### Risk Management
+Cybersecurity risk management involves identifying critical assets, 
+assessing vulnerabilities, understanding cyber threats, and choosing 
+appropriate safeguards. This allows an organisation to make prudent 
+decisions about which risks to accept and which to mitigate by 
+directing resources to the proper cyber defences.<br>
+Critical aspects include:<br>
+* Asset valuation – Estimating sensitivity and importance of 
+data to set security priorities
+* Risk assessments – Methodically reviewing infrastructure and 
+controls to identify weaknesses
+* Threat modelling – Researching real-world attacks likely to 
+target an organisation’s crown jewels
+* Control baselines – Cataloging required security capabilities 
+based on data classifications
+* Security frameworks – Adopting standardised models for 
+cyber risk management like NIST or ISO
+---
+### Incident Response
+Cybersecurity incident response focuses on the plans, procedures, and 
+teams required to quickly identify, contain, eradicate, and recover from 
+security events like data breaches, DoS attacks, or insider threats. 
+Minimising impact requires agile coordination across security 
+operations, IT, legal, PR, and executives.<br>
+Critical aspects include:
+* Monitoring and alerting – Enabling security ops teams to 
+spot incidents in progress
+* Investigation and forensics – Technically analysing attacks to 
+learn root causes and assess impact
+* Notification – Informing victims as required by breach 
+disclosure laws
+* Damage control – Isolating and repairing affected systems, 
+securing evidence
+* Post-incident review – Assessing the effectiveness of the 
+response to guide future improvement
+---
+### Security Operations
+Security operations involve continually monitoring infrastructure, 
+endpoints, networks, data, logs, and cloud resources to identify threats 
+and prevent cyber attacks. This function is a 24/7 cyber command 
+centre, often relying on Security Information and Event Management 
+(SIEM) software to track and analyse activity across an entire IT 
+environment.<br>
+Critical aspects include:
+* Security monitoring – Watching all systems centrally to spot 
+suspicious events more quickly
+* Incident response – Executing playbooks to contain, 
+eradicate, and recover from attacks
+* Digital forensics – Capturing extensive system logs and data 
+to uncover root causes
+* Security automation – Scripting repeatable processes for 
+threat detection and mitigation
+* Defence coordination – Sharing intelligence and coordinating 
+protections with partners
+---
+### Governance, Risk Management, and Compliance (GRC)
+GRC represents integrated processes for aligning cybersecurity 
+programs with business objectives, managing risk appetite, and 
+adhering to legal, regulatory and industry compliance standards. This 
+involves extensive documentation, audits, control testing, and 
+executive governance.<br>
+Critical aspects include:
+* Policies and standards – Setting security requirements for 
+technology, staff, and vendors
+* Control objectives – Defining required safeguards based on 
+risk tolerance
+* Audits – Validating that prescribed controls are correctly 
+implemented
+* Benchmarks and metrics – Measuring program effectiveness 
+to guide improvements
+* Board reporting – Keeping executives and directors informed 
+on cyber risk postur
+---
+### Security Architecture
+Security architecture focuses on baking comprehensive protections 
+into the design, integration, and management of IT systems, networks, 
+and infrastructure. This proactive approach identifies security needs 
+early on and allows controls to be tightly woven into technology 
+blueprints rather than bolted on later.<br>
+Critical aspects include:
+* Secure SDLC – Making security central to dev ops pipelines 
+and software development lifecycles
+* Defense-in-depth – Layering complementary controls so 
+weaknesses in one are covered by another
+* Zero trust model – Designing environments assuming breach 
+and verifying all access
+* Privacy by design – Architecting full data protections upfront 
+per privacy regulations
+* Cloud security posture management – Applying and 
+managing controls across complex cloud 
+environment
+---
+### Vendor and Third Party Cyber Risk Management
+Vendor cyber risk has become a top concern with the extensive 
+reliance on cloud services, managed service providers, contractors, and 
+IT supply chains. A stringent review of partners’ security controls and 
+practices is required to avoid weak links that result in consequential 
+breaches.<br>
+Critical aspects include:
+* Due diligence reviews – Extensively vetting vendor security 
+before partnerships
+* Contract terms – Clearly defining security responsibilities 
+between parties
+* Cloud security alliances – Joining industry groups that 
+promote cloud control assurance
+* Monitors – Ongoing reviews of partners’ control 
+environments
+* Incident response coordination – Structuring how joint 
+incidents will be managed
+---
+### Physical and Personnel Security
+Overlooked physical security exposures can undermine even the most 
+technically sophisticated cyber defences. Likewise, negligence, errors, 
+or malicious insiders remain persistent threats. Tangible safeguards 
+and staff screening controls are crucial to holistic organisational 
+security.<br>
+Critical aspects include:
+* Physical access controls – Electronic badge readers, guards, 
+fencing, alarms, and surveillance
+* Datacenter protections – Resilient power, fire suppression, 
+climate and entry controls
+* Background checks – Vetting staff for criminal records, 
+conflicts or concerning affiliations
+* Security awareness training – Educating personnel on cyber 
+hygiene and incident reporting
+* Workplace surveillance – Monitoring network activity and 
+communications for insider threat
+---
+### Intelligence and Threat Analysis
+Effective cybersecurity requires understanding the likely adversaries’ 
+motives, capabilities and attack patterns to implement the proper 
+defences. Threat intelligence fuels this by gathering information about 
+cyber criminals, hacktivists, insider risks, business competitors and 
+nation-states.<br>
+Critical aspects include:
+* Strategic intelligence – Forecasting risks connected to 
+business plans and strategies
+* Tactical intelligence – Tracking cybercrime groups, exploit 
+availability and emerging attack trends
+* Dark web monitoring – Mining hidden chatting platforms and 
+marketplaces frequented by criminals
+* Attack surface analysis – Modeling and monitoring externally 
+visible vulnerabilities adversaries could target
+* Attribution analysis – Technically profiling attack indicators to 
+determine the likely source
 ---
